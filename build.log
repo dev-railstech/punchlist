@@ -1,0 +1,140 @@
+Logfile initialized
+[INFO] logfile = /Users/svp/Desktop/PunchList/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/builder.py install MasterLibrary /Users/svp/Documents/android /Users/svp/Desktop/PunchList com.shahzad.punch 2
+[INFO] Titanium SDK version: 2.1.4 (11/09/12 12:46 51f2c64)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 5 seconds)
+[DEBUG] waited 5.387786 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] com.shahzad.punch installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/android/appicon.png => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/android/default.png => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/app.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/images/bg.jpg => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/images/bg.jpg
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/images/green_down_arrow.png => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/images/green_down_arrow.png
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/images/MLlogo.jpg => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/images/MLlogo.jpg
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/KS_nav_ui.png => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/KS_nav_ui.png
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/KS_nav_views.png => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/KS_nav_views.png
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/common/Base64.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/common/Base64.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/common/DatePicker.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/common/DatePicker.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/common/punchLogic.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/common/punchLogic.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/EditPunchList.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/EditPunchList.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/EditPunchListItem.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/EditPunchListItem.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/LoginWindow.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/LoginWindow.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/NewPunchList.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/NewPunchList.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/NewPunchListItem.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/NewPunchListItem.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/ProjectDetail.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/ProjectDetail.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/ProjectHome.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/ProjectHome.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/ProjectListing.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/ProjectListing.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/PunchList.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/PunchList.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/PunchListDetail.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/PunchListDetail.js
+[TRACE] COPYING CREATED FILE: /Users/svp/Desktop/PunchList/Resources/ui/handheld/PunchListItemDetail.js => /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/ui/handheld/PunchListItemDetail.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/svp/Desktop/PunchList/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/svp/Desktop/PunchList/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/svp/Desktop/PunchList/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/MasterlibraryActivity.java to javac build list
+[DEBUG] adding /Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/MasterlibraryAppInfo.java to javac build list
+[DEBUG] adding /Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/MasterlibraryApplication.java to javac build list
+[DEBUG] adding /Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/ApplicationStylesheet.java" "/Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/MasterlibraryActivity.java" "/Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/MasterlibraryAppInfo.java" "/Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/MasterlibraryApplication.java" "/Users/svp/Desktop/PunchList/build/android/gen/com/shahzad/punch/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/svp/Desktop/PunchList/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/MLlogo.jpg
+[DEBUG] from resource zip => assets/Resources/images/bg.jpg
+[DEBUG] from resource zip => assets/Resources/images/green_down_arrow.png
+[DEBUG] from resource zip => assets/Resources/ui/common/Base64.js
+[DEBUG] from resource zip => assets/Resources/ui/common/DatePicker.js
+[DEBUG] from resource zip => assets/Resources/ui/common/punchLogic.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/EditPunchList.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/EditPunchListItem.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/LoginWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/NewPunchList.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/NewPunchListItem.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/ProjectDetail.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/ProjectHome.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/ProjectListing.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/PunchList.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/PunchListDetail.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/PunchListItemDetail.js
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Library/Application Support/Titanium/mobilesdk/osx/2.1.4.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.204917 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
